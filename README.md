@@ -108,7 +108,7 @@ _____
 1. 112 lessons
 2. 30 simple projects + 4 complex projects
 
-Default durations:
+## Default durations:
 1. Simple project: 1 week
 2. Complex project: 2 week
 
