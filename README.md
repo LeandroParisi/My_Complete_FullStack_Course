@@ -52,10 +52,9 @@ ____
    12. MongoDb + API + OOP * - 2 lessons
    13. Project
    14. VPS + CI/CD + DNS - 2 lessons
-   15. 
 <br/>
 
-4. **Computer science:** - 20 lessons
+1. **Computer science:** - 20 lessons
    1. Intro to python ** - 3 lessons
    2. Design Patterns * - 3 lessons
    3. Web Scraping ** - 3 lessons
