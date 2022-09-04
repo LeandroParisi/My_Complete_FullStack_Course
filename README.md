@@ -8,6 +8,9 @@ All of that with 34 projects where you are going to learn by DOING!
 
 And, during the course, if I fell like you are prepared I can help you getting a job (not guaranteed, but I will do my best).
 
+### Interested? Contact me:
+Email: lepcbelisario@gmail.com
+Whatsapp: +55 31 99779-4403
 ____
 
 ## Study program:
