@@ -1,4 +1,4 @@
-# Become a full stack developer yourself:
+# I can help you becoming a full stack developer:
 ## Presentation:
 Become a full stack developer with my help! I have more than 10 years experience as a teacher and 3 as a software developer!
 
