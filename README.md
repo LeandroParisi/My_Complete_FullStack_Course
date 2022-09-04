@@ -67,6 +67,7 @@ ____
 
 
 '* A project is included at the end of this subject
+<br/>
 '** This subject can be skipped if you want to do BackEnd and CS classes using C# - if you choose to skip these lessons the total price of the course will be reduced accordingly
 
 _______
@@ -272,12 +273,12 @@ _______
 
 ## Course routine:
 
-I offer 3 possibilities:
+#### I offer 3 possibilities:
 1. 1 class / week
 2. 2 classes / week
 3. 3 classes / week (weekend included)
 
-A normal class day consists of:
+#### A normal class day consists of:
 1. I send you the material to be studied in ADVANCE to our class: 1h30 - 2h30 of studies
 2. I give you a class: 1h or 1h30 (to be agreed)
 3. You do the exercises or project: 2h - 3h exercises / 1 week project
