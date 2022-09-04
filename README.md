@@ -54,7 +54,7 @@ ____
    14. VPS + CI/CD + DNS - 2 lessons
 <br/>
 
-1. **Computer science:** - 20 lessons
+4. **Computer science:** - 20 lessons
    1. Intro to python ** - 3 lessons
    2. Design Patterns * - 3 lessons
    3. Web Scraping ** - 3 lessons
@@ -66,6 +66,205 @@ ____
 '* A project is included at the end of this subject
 '** This subject can be skipped if you want to do BackEnd and CS classes using C# - if you choose to skip these lessons the total price of the course will be reduced accordingly
 
+_______
+
+## Study program - detailed:
+
+1. **Software development fundamentals** - 30 lessons
+   1. GitHub - 3 lessons
+      1. Understanding Git and how it works
+      2. Basic commands
+      3. Internet - How it works?
+   
+   2. Html & CSS: intro * - 4 lessons
+      1. Page basic structure
+      2. CSS basics
+      3. CSS: selectors and positioning
+      4. Semantic HTML
+      5. Project - Lessons Learned
+
+   3. Introduction to JS and programming logic * - 4 lessons
+      1. First steps into JS
+      2. Array e for loop
+      3. Programming logic and algorithmics
+      4. Objects and functions
+      5. Project - playground functions
+
+   4. JS: DOM, events and WebStorage * - 5 lessons
+      1. JS - DOM and selectors
+      2. Working with elements
+      3. Events
+      4. Web Storage
+      5. Browser tips and tricks
+      6. Project - Pixel Art + Bonus projects (optional)
+
+   5. HTML & CSS: Forms, flexbox, responsive * - 6 lessons
+      1. Forms
+      2. Libraries and frameworks CSS
+      3. Flexbox - part I
+      4. Flexbox - part II
+      5. Responsible CSS - Mobile first
+      6. Project - Hogwarts school of magic
+
+   6. JS ES6 & unit tests * - 3 lessons
+      1. let, const, arrow functions and template literals
+      2. Exceptions and objects
+      3. Jest
+      4. Project - unit tests
+   
+   7. HoF * - 5 lessons
+      1. HoF introduction
+      2. forEach, find, some, every, sort
+      3. map and filter
+      4. reduce
+      5. spread operator, rest operator, destructuring
+      6. Project - Zoo functions
+
+<br/>
+
+2. **FrontEnd:** - 21 lessons
+   1. JS & async tests * - 3 lessons
+      1. Asyncronous programming and callbacks
+      2. Fetch API + async / await
+      3. Jest - async testing
+      4. Project - Shopping cart
+   2. Intro to React * - 2 lessons
+      1. React basics
+      2. React Components
+      3. Project - Solar system
+   3. Components, state, events and forms * - 2 lessons
+      1. State & events
+      2. Forms on React
+      3. Project - Triunphy
+   4. Life cycles * - 2 lessons
+      1. Components life cycle
+      2. React Router
+      3. Project - YourTunes
+   5. Agile methodologies * - 1 lesson
+      1. Scrum & Kanban
+      2. Project - Online Store
+   6. Automated tests: RTL * - 3 lessons
+      1. RTL Basics
+      2. Mocks & Inputs
+      3. Testing React Router
+      4. Project - React Testing
+   7. Redux * - 5 lessons
+      1. Global State
+      2. Redux with React
+      3. Pratice Redux
+      4. Async Actions
+      5. Tests with Redux & React
+      6. Project - Digital Wallet
+   8. Project - Trivia game
+   9.  Context API & Hooks * - 3 lessons
+       1. Context API
+       2. useState & useContext
+       3. useEffect & Custom hooks
+       4. Project - Starwars Datatable
+   10. Project - Recipe App
+
+<br/>
+
+3. **BackEnd:** - 41 lessons
+   1. Docker Intro * - 3 lessons
+      1. Basic about containers and docker
+      2. Manipulating docker images
+      3. Orquestration with docker compose
+      4. Project - To Do List with docker
+   2. SQL Intro * - 4 lessons
+      1. Intro - Relational Databases and DB modelling
+      2. Querying a database
+      3. Filtering data
+      4. Manipulating tables
+      5. Project - All for one
+   3. SQL Advanced * - 3 lessons
+      1. Most used functions on SQL
+      2. JOIN's  - 'easy pizzy'
+      3. Advanced modelling of Databases
+      4. Project - One for all
+   4. Creating APIs * - 5 lessons
+      1. Intro - Framework to create a server
+      2. API Rest with a framework
+      3. Integration tests
+      4. Middlwwares
+      5. BackEnd Framework + Sql
+      6. Project - Talker Manager
+   5. Architecture * - 3 lessons
+      1. Model layer
+      2. Services Layer
+      3. Controller layer
+      4. Project - Store Manager
+   6. ORMs & authentication * - 4 lessons
+      1. ORMs basics
+      2. Associations
+      3. JWT
+      4. API integrated tests
+      5. Project - Blog API
+   7. Deployment * - 2 lessons
+      1. Deploy basics
+      2. Deploy Docker & Heroku
+      3. Project - Stranger Things
+   8. Typescript ** - 3 lessons
+      1. TS basics
+      2. Static typing & generics
+      3. TS with backend framework
+      4. Project - Smith
+   9.  OOP e Solid * - 5 lessons
+       1.  Intro to OOP
+       2.  Inheritance and interfaces
+       3.  Polimorphism
+       4.  SOLID: S, O and D
+       5.  SOLID: L and I
+       6.  Project - Dragons
+   10. Project - Futebol club
+   11. MongoDb Intro * - 5 lessons
+       1.  NoSql and Mongo intro
+       2.  Filter operations
+       3.  Query operations
+       4.  Simple updates
+       5.  Complex updates - arrays
+       6.  Project - Commerce
+   12. MongoDb + API + OOP * - 2 lessons
+       1.  MSC architecture - model
+       2.  MSC architecture - Service & controller
+       3.  Project - Car Shop 
+   13. Project - Delivery App
+   14. VPS + CI/CD + DNS - 2 lessons
+       1.  Connecting to a virtual private server
+       2.  CI/CD and pipelines
+<br/>
+
+4. **Computer science:** - 20 lessons
+   1. Intro to python ** - 3 lessons
+      1. Python basics
+      2. Input / output
+      3. Tests
+      4. Project - Job Insights
+   2. Design Patterns * - 3 lessons
+      1. OOP with a programming language
+      2. Patterns: Iterator, Adapter, Strategy
+      3. Patterns: Decorator, Observer, Factory
+      4. Project - Storage
+   3. Web Scraping ** - 3 lessons
+      1. Web structure, and security
+      2. Data scraping
+      3. Other scraping tools
+      4. Project - Tech news
+   4. Algorithms * - 3 lessons
+      1. Algorithms complexity
+      2. Recursivity and other strategies
+      3. Ordenations and search algorithms
+      4. Project - Algorithms
+   5. Data sctructure I: Arrays, Lists, Queues, Stacks * - 4 lessons
+      1. Computer architecture
+      2. Arrays
+      3. Nodes and concatenate lists
+      4. Queues and Stacks
+      5. Project - We are not Google!
+   6. Data sctructure II: HashMaps, Set * - 2 lessons
+      1. Hashmap & Dict
+      2. Set
+      3. Project - restaurant orders
 _______
 
 ## Course routine:
