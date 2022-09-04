@@ -315,7 +315,7 @@ _____
 2. Complex project: 2 week
 
 ### Course duration:
-1. 1 class / week: 2 years and 4 months lessons + 9 months projects = 3 years and 1 month
+1. 1 class / week: 2 years and 4 months + 9 months projects = 3 years and 1 month
 2. 2 classes / week: 1 year and 2 months + 9 months projects = 2 years and 2 months
 3. 3 classes / week: 9 months + 9 months projects = 1 year and 6 months
 
