@@ -59,17 +59,16 @@ _______
 
 ## Course routine:
 
-I over 3 possibilities:
+I offer 3 possibilities:
 1. 1 class / week
 2. 2 classes / week
 3. 3 classes / week (weekend included)
 
 A normal class day consists of:
 1. I send you the material to be studied in ADVANCE to our class: 1h30 - 2h30 of studies
-2. I give you a class: 1h - 1h30 (to be agreed)
+2. I give you a class: 1h or 1h30 (to be agreed)
 3. You do the exercises or project: 2h - 3h exercises / 1 week project
 4. Both projects and exercises have automated correction, if you need personalized help you can pay for single monitoring sessions
-
 
 ______
 
