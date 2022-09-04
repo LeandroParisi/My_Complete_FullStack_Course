@@ -2,6 +2,12 @@
 ## Presentation:
 Become a full stack developer with my help! I have more than 10 years experience as a teacher and 3 as a software developer!
 
+This course aims to teach you not just the most used tools the market is using right now (2022), but also: fundamentals of computer science (which are very important for a complete developer) and market best practices and organization methodologies.
+
+All of that with 34 projects where you are going to learn by DOING!
+
+And, during the course, if I fell like you are prepared I can help you getting a job (not guaranteed, but I will do my best).
+
 ____
 
 ## Study program:
