@@ -59,7 +59,7 @@ ____
 
 
 '* A project is included at the end of this subject
-'** This subject can be skipped if you want to do BackEnd and CS classes using C#
+'** This subject can be skipped if you want to do BackEnd and CS classes using C# - if you choose to skip these lessons the total price of the course will be reduced accordingly
 
 _______
 
@@ -96,6 +96,7 @@ ______
 _____
 
 ## Details:
+'* All this course codes MUST be writen in english, this is to help you, because it's the standard of the market!
 
 ### Lesson + project quantities:
 1. 112 lessons
@@ -111,6 +112,7 @@ Default durations:
 3. 3 classes / week: 9 months + 9 months projects = 1 year and 6 months
 
 '* Plus eventual extra time to finish projects 
+'** The durations can be even more reduced if you are capable, and I have the time, to do more than 3 lessons per week OR if you are capable of having 2 subjects on the same class (this last option WON'T change the total price of the course) 
 
 ### Payment conditions: 
 
