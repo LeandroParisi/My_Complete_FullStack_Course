@@ -21,6 +21,8 @@ ____
    6. JS ES6 & unit tests * - 3 lessons
    7. HoF * - 5 lessons
 
+<br/>
+
 2. **FrontEnd:** - 21 lessons
    1. JS & async tests * - 3 lessons
    2. Intro to React * - 2 lessons
@@ -32,6 +34,8 @@ ____
    8. Project
    9. Context API & Hooks * - 3 lessons
    10. Project
+
+<br/>
 
 3. **BackEnd:** - 41 lessons
    1. Docker Intro * - 3 lessons
@@ -48,6 +52,8 @@ ____
    12. MongoDb + API + OOP * - 2 lessons
    13. Project
    14. VPS + CI/CD + DNS - 2 lessons
+   15. 
+<br/>
 
 4. **Computer science:** - 20 lessons
    1. Intro to python ** - 3 lessons
@@ -125,7 +131,7 @@ _____
 
 ### I can help you get a job:
 
-1. If you are performing well during our class and I fell like you are ready to enter the market before the end of the course I can help you getting a job since I have contacts with many companies.
-2. If needed I can help you creating a CV and a pitch to help you with job interview (see prices section)
-3. If you get a job before the end of the course we can either reduce the number of lessons / week and increased the time to deliver each project OR we can transform the rest of the course on mentoring sessions so that I help you with your day to day activities at work.
+1. If you are performing well during our class and I fell like you are ready to enter the market before the end of the course I can help you getting a job since I have contacts with many companies (not guaranteed, but I will do my best).
+2. If needed I can help you creating a CV and a pitch to help you with job interview (see prices section).
+3. If you get a job before the end of the course we can either reduce the number of lessons / week and increased the time to deliver each project OR we can transform the rest of the course on mentoring sessions so that I help you with your day to day activities at work (if you have choose 50 - 50 payment you MUST pay the rest of the course even if you get a job).
 
