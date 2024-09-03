@@ -1,16 +1,18 @@
 # I can help you becoming a full stack developer:
 ## Presentation:
-Become a full stack developer with my help! I have more than 10 years experience as a teacher and 3 as a software developer!
+Become a full stack developer with my help! I have more than <b>10 years experience as a teacher</b> and <b>4 as a software developer</b>!
 
 This course aims to teach you not just the most used tools the market is using right now (2022), but also: fundamentals of computer science (which are very important for a complete developer) and market best practices and organization methodologies.
 
-All of that with 34 projects where you are going to learn by DOING!
+All of that with <b>34</b> projects where you are going to learn by DOING!
 
 And, during the course, if I fell like you are prepared I can help you getting a job (not guaranteed, but I will do my best).
 
+[My portfolio](https://github.com/LeandroParisi/PrivatePortfolio)
+
 ### Interested? Contact me:
 Email: lepcbelisario@gmail.com
-Whatsapp: +55 31 99779-4403
+Whatsapp: +55 31 97149-8647
 ____
 
 ## Study program:
@@ -22,7 +24,7 @@ ____
    4. JS: DOM, events and WebStorage * - 5 lessons
    5. HTML & CSS: Forms, flexbox, responsive * - 6 lessons
    6. JS ES6 & unit tests * - 3 lessons
-   7. HoF * - 5 lessons
+   7. HoF (High order functions) * - 5 lessons
 
 <br/>
 
@@ -183,7 +185,7 @@ _______
       5. Project - All for one
    3. SQL Advanced * - 3 lessons
       1. Most used functions on SQL
-      2. JOIN's  - 'easy pizzy'
+      2. JOIN's - 'easy pizzy'
       3. Advanced modelling of Databases
       4. Project - One for all
    4. Creating APIs * - 5 lessons
@@ -276,35 +278,40 @@ _______
 #### I offer 3 possibilities:
 1. 1 class / week
 2. 2 classes / week
-3. 3 classes / week (weekend included)
+3. 3 classes / week
 
 #### A normal class day consists of:
 1. I send you the material to be studied in ADVANCE to our class: 1h30 - 2h30 of studies
 2. I give you a class: 1h or 1h30 (to be agreed)
-3. You do the exercises or project: 2h - 3h exercises / 1 week project
+3. You do the exercises or project: 
+   1. Exercises: 2h - 3h exercises 
+   2. Project: 1 week
 4. Both projects and exercises have automated correction, if you need personalized help you can pay for single monitoring sessions
 
 ______
 
 ## Prices:
 
-1. Price / lesson: $90 / 1h or 120 / 1h30min
-2. Price for the material <strike>5.000</strike> - free
-3. Single monitoring session (to solve doubts about exercises): $50 / 1h
+1. Price / lesson: 
+   1. <b>$125 / 1h</br> 
+   or 
+   2. <b>$160 / 1h30min</br>
+2. Price for the material (study material + projects) <strike>5.000</strike> - free
+3. Single monitoring session (to solve doubts about exercises): $90 / 1h
 
 #### Optionals:
-1. CV and Pitch consulting: $150 / 1 session (1h30min)
-2. Job interview simulation: $300 / 1 process (3 interviews: 1 of 30min, and 2 of 1h) 
+1. CV and Pitch consulting: $250 / 1 session (1h30min)
+2. Job interview simulation: $650 / 1 process (3 interviews: 1 of 30min, and 2 of 1h) 
 
 ## Full course price:
 
-1. 1h lesson: 90 * 112 lessons = $10.080
-1. 1h30 lesson: 120 * 112 lessons = $13.440
+1. 1h lesson: $125 * 112 lessons = <b>$14.080</br>
+1. 1h30 lesson: $160 * 112 lessons = <br>$17.920</br>
 
 _____
 
 ## Details:
-'* All this course codes MUST be writen in english, this is to help you, because it's the standard of the market!
+'* All this course codes MUST be written in english, this is to help you, because it's the standard of the market!
 
 ### Lesson + project quantities:
 1. 112 lessons
@@ -324,10 +331,10 @@ _____
 
 ### Payment conditions: 
 
-1. Monthly: All the classes of a month are paid at the end of that month - no discount
-2. Monthly ahead: All the classes of a month are paid at the begging of that month - 5% discount ($9.576 / 12.768)
-3. 50 - 50: 50% paid at the beggining of the course, 50% paid at the end - 7.5% discount ($9.324 / 12.432)
-4. Paid ahead: The whole value is paid ahead - 10% discount ($9.072 / 12.096)
+1. Monthly: All the classes of a month are paid at the end of that month, no discount
+2. Monthly ahead: All the classes of a month are paid at the begging of that month, 5% discount
+3. 50 - 50: 50% paid at the beggining of the course, 50% paid at the end, 7.5% discount
+4. Paid ahead: The whole value is paid ahead, 10% discount
 
 _____
 
