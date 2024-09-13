@@ -32,14 +32,10 @@ We will follow the study program from [Trybe](https://app.betrybe.com/learn)
 ## Study program:
 ** detailed version of the program at the end of this document
 
-1. **Software development fundamentals** - 30 lessons
-   1. GitHub - 3 lessons
-   2. Html & CSS: intro * - 4 lessons
-   3. Introduction to JS and programming logic * - 4 lessons
-   4. [JS: DOM, events and WebStorage](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/fc998c60-386e-46bc-83ca-4269beb17e17/section/4791fd2b-f154-4c25-b4eb-cef521db8e61/day/4d27192a-747a-4653-ae3b-8a0fde2926bd/lesson/56a69a2b-47c0-4936-a6a9-e6db7942501a) * - 5 lessons
-   5. HTML & CSS: Forms, flexbox, responsive * - 6 lessons
-   6. [JS ES6 & unit tests](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/fc998c60-386e-46bc-83ca-4269beb17e17/section/131a8311-a3d9-4404-ae50-2ea6c971f5d8/day/8bcccf78-a098-4621-a3ec-f06ba5ba8622/lesson/de4ba5e9-8617-4a70-bb02-d2dd19b4069d) * - 3 lessons
-   7. [HoF (High order functions)](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/fc998c60-386e-46bc-83ca-4269beb17e17/section/ccfff26d-24c9-422e-b886-6ee19f20db14/day/1a8e874c-0ece-4302-88fb-455c93880bb7/lesson/0d5b034c-0e24-4ddb-8270-8865263df69e) * - 5 lessons
+1. **Software development fundamentals** - 13 lessons
+   1. [JS: DOM, events and WebStorage](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/fc998c60-386e-46bc-83ca-4269beb17e17/section/4791fd2b-f154-4c25-b4eb-cef521db8e61/day/4d27192a-747a-4653-ae3b-8a0fde2926bd/lesson/56a69a2b-47c0-4936-a6a9-e6db7942501a) * - 5 lessons
+   2. [JS ES6 & unit tests](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/fc998c60-386e-46bc-83ca-4269beb17e17/section/131a8311-a3d9-4404-ae50-2ea6c971f5d8/day/8bcccf78-a098-4621-a3ec-f06ba5ba8622/lesson/de4ba5e9-8617-4a70-bb02-d2dd19b4069d) * - 3 lessons
+   3. [HoF (High order functions)](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/fc998c60-386e-46bc-83ca-4269beb17e17/section/ccfff26d-24c9-422e-b886-6ee19f20db14/day/1a8e874c-0ece-4302-88fb-455c93880bb7/lesson/0d5b034c-0e24-4ddb-8270-8865263df69e) * - 5 lessons
 
 <br/>
 
