@@ -2,20 +2,26 @@
 ## Presentation:
 Become a full stack developer with my help! I have more than <b>10 years experience as a teacher</b> and <b>4 as a software developer</b>!
 
-This course aims to teach you not just the most used tools the market is using right now (2022), but also: fundamentals of computer science (which are very important for a complete developer) and market best practices and organization methodologies.
+This course aims to teach you not just the most used tools the market is using right now, but also: fundamentals of computer science (which are very important for a complete developer) and market best practices and organization methodologies.
 
-All of that with <b>34</b> projects where you are going to learn by DOING!
+All of that with <b>34 projects</b> on which you are going to learn by DOING!
 
 And, during the course, if I fell like you are prepared I can help you getting a job (not guaranteed, but I will do my best).
 
 [My portfolio](https://github.com/LeandroParisi/PrivatePortfolio)
 
 ### Interested? Contact me:
-Email: lepcbelisario@gmail.com
-Whatsapp: +55 31 97149-8647
+<br />
+<b>Email</b>: lepcbelisario@gmail.com
+<br />
+<b>Whatsapp</b>: +55 31 97149-8647
+
+<br />
 ____
+<br />
 
 ## Study program:
+** detailed version of the program at the end of this document
 
 1. **Software development fundamentals** - 30 lessons
    1. GitHub - 3 lessons
@@ -72,7 +78,101 @@ ____
 <br/>
 '** This subject can be skipped if you want to do BackEnd and CS classes using C# - if you choose to skip these lessons the total price of the course will be reduced accordingly
 
-_______
+
+<br />
+____
+<br />
+
+## Course routine:
+
+#### I offer 3 possibilities:
+1. 1 class / week
+2. 2 classes / week
+3. 3 classes / week
+
+#### A normal class day consists of:
+1. I send you the material to be studied in ADVANCE to our class: 1h30 - 2h30 of studies
+2. I give you a class: 1h or 1h30 (to be agreed)
+3. You do the exercises or project: 
+   1. Exercises: 2h - 3h exercises 
+   2. Project: 1 week
+4. Both projects and exercises have automated correction, if you need personalized help you can pay for single monitoring sessions
+
+
+<br />
+____
+<br />
+
+
+# Prices:
+
+## Individual lessons:
+1. Price / lesson: 
+   1. <b>$140 / 1h</b>
+   </br>
+   or 
+   </br>
+   2. <b>$180 / 1h30min</b>
+2. Single monitoring session (to solve doubts about exercises): $90 / 1h
+
+#### Optionals:
+1. <b>CV and Pitch consulting</b>: $250 / 1 session (1h30min)
+2. <b>Job interview simulation</b>: $650 / 1 process (3 interviews: 1 of 30min, and 2 of 1h) 
+
+## Full course price:
+
+1. <b>1h lesson</b>: $140 * 112 lessons = <b>$15.680</b>
+1. <b>1h30 lesson</b>: $180 * 112 lessons = <b>$20.160</b>
+
+
+<br />
+____
+<br />
+
+
+# Details:
+* All the code on this course <b>MUST</b> be written in english, this is to help you, because it's the standard of the market!
+
+<b>IMPORTANT!!</b> Teaching is a 50% - 50% work, 50% comes from the teacher, 50% comes from the student, <b>mainly</b> in programming. DON'T expect me to <b>give you the answer</b> my job is to <b>facilitate your learning</b> and <b>ask the right questions</b>. As a developer you <b>NEED</b> the ability to <b>think</b>, <b>code</b>, <b>learn</b> by yourself and to <b>ASK THE RIGHT QUESTIONS</b> yourself, this is the most important thing to learn in this course!
+
+## Lesson + project quantities:
+1. 112 lessons
+2. 30 simple projects + 4 complex projects
+
+## Default durations:
+1. Simple project: 1 week
+2. Complex project: 2 week
+
+## Course duration:
+1. 1 class / week: 2 years and 4 months + 9 months projects = 3 years and 1 month
+2. 2 classes / week: 1 year and 2 months + 9 months projects = 2 years and 2 months
+3. 3 classes / week: 9 months + 9 months projects = 1 year and 6 months
+
+- Plus eventual extra time to finish projects 
+- The durations can be even more reduced if you are capable, and I have the time, to do more than 3 lessons per week OR if you are capable of having 2 subjects on the same class (this last option WON'T change the total price of the course) 
+
+## Payment conditions: 
+
+1. <b>Monthly</b>: All the classes of a month are paid at the end of that month, no discount
+2. <b>Monthly ahead</b>: All the classes of a month are paid at the begging of that month, 5% discount
+3. <b>50 - 50</b>: 50% paid at the beggining of the course, 50% paid at the end, 7.5% discount
+4. <b>Paid ahead</b>: The whole value is paid ahead, 10% discount
+
+
+<br />
+____
+<br />
+
+# I can help you get a job:
+
+1. If you are performing well during our class and I fell like you are ready to enter the market before the end of the course I can help you getting a job since I have contacts with many companies (not guaranteed, but I will do my best).
+2. If needed I can help you creating a CV and a pitch to help you with job interview (see prices section).
+3. If you get a job before the end of the course we can either reduce the number of lessons / week and increased the time to deliver each project OR we can transform the rest of the course on mentoring sessions so that I help you with your day to day activities at work (if you have choose 50 - 50 payment you MUST pay the rest of the course even if you get a job).
+
+
+<br />
+____
+<br />
 
 ## Study program - detailed:
 
@@ -271,76 +371,8 @@ _______
       1. Hashmap & Dict
       2. Set
       3. Project - restaurant orders
-_______
 
-## Course routine:
 
-#### I offer 3 possibilities:
-1. 1 class / week
-2. 2 classes / week
-3. 3 classes / week
-
-#### A normal class day consists of:
-1. I send you the material to be studied in ADVANCE to our class: 1h30 - 2h30 of studies
-2. I give you a class: 1h or 1h30 (to be agreed)
-3. You do the exercises or project: 
-   1. Exercises: 2h - 3h exercises 
-   2. Project: 1 week
-4. Both projects and exercises have automated correction, if you need personalized help you can pay for single monitoring sessions
-
-______
-
-## Prices:
-
-1. Price / lesson: 
-   1. <b>$125 / 1h</br> 
-   or 
-   2. <b>$160 / 1h30min</br>
-2. Price for the material (study material + projects) <strike>5.000</strike> - free
-3. Single monitoring session (to solve doubts about exercises): $90 / 1h
-
-#### Optionals:
-1. CV and Pitch consulting: $250 / 1 session (1h30min)
-2. Job interview simulation: $650 / 1 process (3 interviews: 1 of 30min, and 2 of 1h) 
-
-## Full course price:
-
-1. 1h lesson: $125 * 112 lessons = <b>$14.080</br>
-1. 1h30 lesson: $160 * 112 lessons = <br>$17.920</br>
-
-_____
-
-## Details:
-'* All this course codes MUST be written in english, this is to help you, because it's the standard of the market!
-
-### Lesson + project quantities:
-1. 112 lessons
-2. 30 simple projects + 4 complex projects
-
-## Default durations:
-1. Simple project: 1 week
-2. Complex project: 2 week
-
-### Course duration:
-1. 1 class / week: 2 years and 4 months + 9 months projects = 3 years and 1 month
-2. 2 classes / week: 1 year and 2 months + 9 months projects = 2 years and 2 months
-3. 3 classes / week: 9 months + 9 months projects = 1 year and 6 months
-
-'* Plus eventual extra time to finish projects 
-'** The durations can be even more reduced if you are capable, and I have the time, to do more than 3 lessons per week OR if you are capable of having 2 subjects on the same class (this last option WON'T change the total price of the course) 
-
-### Payment conditions: 
-
-1. Monthly: All the classes of a month are paid at the end of that month, no discount
-2. Monthly ahead: All the classes of a month are paid at the begging of that month, 5% discount
-3. 50 - 50: 50% paid at the beggining of the course, 50% paid at the end, 7.5% discount
-4. Paid ahead: The whole value is paid ahead, 10% discount
-
-_____
-
-### I can help you get a job:
-
-1. If you are performing well during our class and I fell like you are ready to enter the market before the end of the course I can help you getting a job since I have contacts with many companies (not guaranteed, but I will do my best).
-2. If needed I can help you creating a CV and a pitch to help you with job interview (see prices section).
-3. If you get a job before the end of the course we can either reduce the number of lessons / week and increased the time to deliver each project OR we can transform the rest of the course on mentoring sessions so that I help you with your day to day activities at work (if you have choose 50 - 50 payment you MUST pay the rest of the course even if you get a job).
-
+<br />
+____
+<br />

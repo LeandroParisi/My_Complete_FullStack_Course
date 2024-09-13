@@ -1,0 +1,6 @@
+1. [JsCourse 1](https://github.com/LeandroParisi/javascript-course)
+2. [Project 1](https://github.com/jamezmca/the-complete-javascript-course)
+3. [Project 2](https://github.com/emailjohnthomascaballero/javascript-course-SuperSimpleDev)
+4. [Trybe exercicios 1](https://github.com/marianasaraiva/trybe-exercicios/tree/master)
+5. [Trybe exercicios 2](https://github.com/williandpg/trybe-exercicios/tree/main)
+6. [All trybe projects](https://github.com/LeandroParisi/Courses_Trybe_Projects)
