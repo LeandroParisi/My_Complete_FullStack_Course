@@ -1,13 +1,15 @@
 #!/bin/bash
 
-# Prompt the user for the branch name
-read -p "Enter the branch name to merge main into: " branch_name
+# # Prompt the user for the branch name
+# read -p "Enter the branch name to merge main into: " branch_name
 
-# Check if the user provided a branch name
-if [ -z "$branch_name" ]; then
-  echo "Branch name cannot be empty."
-  exit 1
-fi
+# # Check if the user provided a branch name
+# if [ -z "$branch_name" ]; then
+#   echo "Branch name cannot be empty."
+#   exit 1
+# fi
+
+branch_name="2024_rafael_sanches"
 
 # Checkout to the specified branch
 echo "Checking out to branch '$branch_name'..."
