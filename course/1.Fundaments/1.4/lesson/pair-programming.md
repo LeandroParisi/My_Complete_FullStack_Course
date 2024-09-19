@@ -1,5 +1,8 @@
 ### **Challenge 1: Full Online Shopping Cart Experience**
 
+####
+1. 
+
 #### **Problem Description:**
 
 You are tasked with building a fully functional online shopping cart system that simulates a real user experience. The user will be able to browse items, add them to their cart, update quantities, remove items, and view the total price. The system will also check if the user qualifies for free shipping based on the total value of their cart.
