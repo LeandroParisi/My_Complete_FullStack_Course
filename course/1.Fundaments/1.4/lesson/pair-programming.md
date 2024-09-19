@@ -1,7 +1,7 @@
 ### **Challenge 1: Full Online Shopping Cart Experience**
 
-####
-1. 
+#### Realizar
+1. Focando em criar funções que sejam bem claras no que elas fazem
 
 #### **Problem Description:**
 
