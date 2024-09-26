@@ -10,9 +10,22 @@ Desenvolva a lógica por trás dos seguintes métodos de arrays sem usar as fun�
 #### a. `find()`
 - Objetivo: Retornar o primeiro elemento de um array que satisfaça a condição dada em uma função de callback.
   
+callback = funcaoDoUsuario
 ```javascript
+const arr = [1, 2, 3, 4];
+
+function callback(elementDoArray) {
+    const ehIgualA3 = elementDoArray == 3
+    return ehIgualA3
+}
+
 function find(arr, callback) {
   // Sua implementação aqui
+  for()
+
+  if() {
+
+  } else {}
 }
 ```
 
@@ -42,23 +55,3 @@ function every(arr, callback) {
   // Sua implementação aqui
 }
 ```
-
-### 2. Desafio Extra: Construa a Lógica do `reduce()`
-Recrie a função `reduce`, que percorre o array e retorna um único valor de acordo com a função de callback. O método `reduce` pode acumular valores, como somas ou produtos, e mais.
-
-```javascript
-function reduce(arr, callback, initialValue) {
-  // Sua implementação aqui
-}
-```
-
-#### Exemplo de uso:
-```javascript
-const nums = [1, 2, 3, 4];
-const sum = reduce(nums, (acc, curr) => acc + curr, 0);
-console.log(sum); // Deve exibir 10
-```
-
---- 
-
-Esses exercícios visam reforçar a lógica dos métodos de arrays e a compreensão de como esses métodos podem ser implementados na prática.
