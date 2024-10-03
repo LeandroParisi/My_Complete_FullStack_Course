@@ -21,11 +21,13 @@ function callback(elementDoArray) {
 
 function find(arr, callback) {
   // Sua implementação aqui
-  for()
+  for(){
+    if() {
 
-  if() {
+    } else {}
+  }
 
-  } else {}
+  
 }
 ```
 
